@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "NeonCoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "011e01ff0001d20b02111a270a97ed43030f5940131c7bece54a5a5c6dabc3542cbf78c6a33a74c09e210196bd491ccbd6fa5ec911fccd814171fa9e23e99eced55d308e64953f820a9705";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff000177029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101461cac192ab5b1c7504e5c29cf0c6f3b6f205edd51bb3554c78fb9a207aa40bd";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
